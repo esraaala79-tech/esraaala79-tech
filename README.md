@@ -1,12 +1,18 @@
-# Hi, I'm Esraa Alaa 👋
+# Hi 👋, I'm Esraa Alaa
 
-### Full Stack Software Engineer
+### Software Engineer | Full-Stack Developer (MERN Stack)
 
-Computer Science graduate specialized in Software Engineering, with a strong foundation in the **MERN stack**, RESTful APIs, authentication, and role-based systems.
+![SOFTWARE ENGINEERING](https://img.shields.io/badge/SOFTWARE_ENGINEERING-0A7CC1?style=for-the-badge)
+![FULL-STACK MERN](https://img.shields.io/badge/FULL--STACK_MERN-16A085?style=for-the-badge)
+![BACKEND DEVELOPMENT](https://img.shields.io/badge/BACKEND_DEVELOPMENT-F28C28?style=for-the-badge)
 
-I enjoy building complete web applications from **database design and backend APIs to responsive frontend interfaces**.
+## 🔗 About Me
 
-Currently focused on strengthening my **Node.js & Backend Development** skills and growing as a professional software engineer.
+- Software Engineer specialized in **Full-Stack Web Development**.
+- Experienced in building web applications using the **MERN Stack**.
+- Strong foundation in **Node.js, Express.js, React.js, MongoDB, and RESTful APIs**.
+- Interested in **Backend Development, scalable systems, and clean architecture**.
+
 
 ---
 
