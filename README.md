@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi 👋, I'm Esraa Alaa
 
 ### Software Engineer | Full-Stack Developer (MERN Stack)
@@ -5,6 +7,8 @@
 ![SOFTWARE ENGINEERING](https://img.shields.io/badge/SOFTWARE_ENGINEERING-0A7CC1?style=for-the-badge)
 ![FULL-STACK MERN](https://img.shields.io/badge/FULL--STACK_MERN-16A085?style=for-the-badge)
 ![BACKEND DEVELOPMENT](https://img.shields.io/badge/BACKEND_DEVELOPMENT-F28C28?style=for-the-badge)
+
+</div>
 
 ## 🔗 About Me
 
