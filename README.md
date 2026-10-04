@@ -10,17 +10,19 @@
 
 </div>
 
-## 🔗 About Me
+---
 
-- Software Engineer specialized in **Full-Stack Web Development**.
-- Experienced in building web applications using the **MERN Stack**.
-- Strong foundation in **Node.js, Express.js, React.js, MongoDB, and RESTful APIs**.
-- Interested in **Backend Development, scalable systems, and clean architecture**.
+## About Me
 
+* Software Engineer specialized in **Software Engineering and Full-Stack Web Development**.
+* Experienced in building modern web applications using the **MERN Stack**.
+* Strong foundation in **React.js, Node.js, Express.js, MongoDB, and RESTful APIs**.
+* Interested in **Backend Development, scalable systems, and clean architecture**.
+* Currently focused on strengthening my **Node.js and Backend Development** skills.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -48,16 +50,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 
-
-
 ---
 
-## 📫 Connect With Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/esraa-alaa-cs)
 
 📧 **[esraaala79@gmail.com](mailto:esraaala79@gmail.com)**
 
 ---
-
-⭐ Feel free to explore my repositories and projects.
