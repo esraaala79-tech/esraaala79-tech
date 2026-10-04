@@ -1,12 +1,16 @@
+<div align="center">
 
 # Hi 👋, I'm Esraa Alaa
 
 ### Software Engineer | Full-Stack Developer (MERN Stack)
 
 ![SOFTWARE ENGINEERING](https://img.shields.io/badge/SOFTWARE_ENGINEERING-0A7CC1?style=for-the-badge)
-![FULL--STACK MERN](https://img.shields.io/badge/FULL--STACK_MERN-16A085?style=for-the-badge)
+![FULL-STACK MERN](https://img.shields.io/badge/FULL--STACK_MERN-16A085?style=for-the-badge)
 ![BACKEND DEVELOPMENT](https://img.shields.io/badge/BACKEND_DEVELOPMENT-F28C28?style=for-the-badge)
 
+</div>
+
+---
 
 ## About Me
 
@@ -15,6 +19,8 @@
 * Strong foundation in **React.js, Node.js, Express.js, MongoDB, and RESTful APIs**.
 * Interested in **Backend Development, scalable systems, and clean architecture**.
 * Currently focused on strengthening my **Node.js and Backend Development** skills.
+
+---
 
 ## Tech Stack
 
@@ -44,10 +50,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 
+---
+
 ## Connect with Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/esraa-alaa-cs)
 
 📧 **[esraaala79@gmail.com](mailto:esraaala79@gmail.com)**
 
 ⭐ Feel free to explore my repositories and projects.
+
+</div>
