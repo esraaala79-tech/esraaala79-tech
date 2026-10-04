@@ -1,4 +1,3 @@
-<div align="center">
 
 # Hi 👋, I'm Esraa Alaa
 
@@ -8,7 +7,6 @@
 ![FULL--STACK MERN](https://img.shields.io/badge/FULL--STACK_MERN-16A085?style=for-the-badge)
 ![BACKEND DEVELOPMENT](https://img.shields.io/badge/BACKEND_DEVELOPMENT-F28C28?style=for-the-badge)
 
-</div>
 
 ## About Me
 
